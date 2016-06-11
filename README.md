@@ -4,4 +4,4 @@ Muitos dados disponibilizados pelo governo, ditos como publicos, são difíceis 
 
 Esse projeto tem como objetivo organizar esses dados de maneira que a informação se torne relevante para a população.
 
-Iremos iniciar com os dados do SAEB.
+Iremos iniciar com os dados do ideb.
